@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-0SGV6J6P_SQLEXPRESS.DMventas_jardineria_flores_de_Azucena"
+  DTS:DTSID="{45326D71-9860-4BF8-BC8E-13FF5EBF5013}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=LAPTOP-0SGV6J6P\SQLEXPRESS;Initial Catalog=DMventas_jardineria_flores_de_Azucena;Integrated Security=True;Encrypt=False;Application Name=SSIS-ETL_Jardineria-{45326D71-9860-4BF8-BC8E-13FF5EBF5013}LAPTOP-0SGV6J6P\SQLEXPRESS.DMventas_jardineria_flores_de_Azucena;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

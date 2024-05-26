@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-0SGV6J6P_SQLEXPRESS.Stanging"
+  DTS:DTSID="{CCB5BF7D-F9C8-4305-800F-1A9F5EE87778}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=LAPTOP-0SGV6J6P\SQLEXPRESS;Initial Catalog=Stanging;Integrated Security=True;Encrypt=False;Application Name=SSIS-ETL_Jardineria-{CCB5BF7D-F9C8-4305-800F-1A9F5EE87778}LAPTOP-0SGV6J6P\SQLEXPRESS.Stanging;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
